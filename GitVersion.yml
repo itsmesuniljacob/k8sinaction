@@ -1,0 +1,10 @@
+next-version: 1.0
+assembly-versioning-scheme: MajorMinorPatch
+assembly-file-versioning-scheme: MajorMinorPatchTag
+assembly-informational-format: '{InformationalVersion}'
+mode: ContinuousDeployment
+next-version: 1.0.0
+branches: {}
+ignore:
+  sha: []
+  commits-before: yyyy-MM-ddTHH:mm:ss
